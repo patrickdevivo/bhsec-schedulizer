@@ -93,7 +93,7 @@ function creditCount() {
 //$('#main').append("<input type='checkbox' name='" + classes[i] + "'>" + title + ", " + teacher + "</input><br />");
 $(document).ready(function() {
 	
-	$.msgbox("<strong>Welcome to the BHSEC Schedulizer</strong>. The class list for Fall 2010 has been added (Year 2 Seminar left out). Please report any errors or bugs so I can fix them as soon as possible.", {type:"info", buttons: [{type: "submit", value: "OK"}]} ); 
+	$.msgbox("<strong>Welcome to the BHSEC Schedulizer</strong>.<br />The class list for Fall 2010 has been removed in preparation for importing the Spring 2010 class list.", {type:"info", buttons: [{type: "submit", value: "OK"}]} ); 
 
 	list(); //list all the classes
 
