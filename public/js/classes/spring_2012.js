@@ -29,6 +29,12 @@ var classes = new Array(
 	[4, "Sophomore Seminar II", "Cho", 4, days = ["m", "t", false, "r", "f"], 502],
 	[5, "Sophomore Seminar II", "Vartorella", 4, days = ["m", "t", "w", false, "f"], 503],
 	[6, "Sophomore Seminar II", "Scott", 4, days = ["m", false, "w", "r", "f"], 302],
-	[7, "Sophomore Seminar II", "Lerner", 4, days = ["m", "t", "w", "r", false], 202]
+	[7, "Sophomore Seminar II", "Lerner", 4, days = ["m", "t", "w", "r", false], 202],
+	
+	[1, "African American Lit", "Scott", 3, days = ["m", false, "w", "r", "f"], 302],
+	[2, "African American Lit", "Scott", 7, days = ["m", "t", false, "r", false], 302],
+	[1, "Murder Noir", "Vartorella", 7, days = ["m", "t", false, "r", false], 503],
+	[1, "College Composition", "Johnson", 3, days = ["m", "t", false, false, "f"], 501],
+	[1, "Poetry Workshop", "Kiley", 7, days = ["m", "t", false, "r", false], 202],
 	
 );
